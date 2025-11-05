@@ -1,7 +1,9 @@
 # Shadowstrap Roblox Bootstrapper
 
-![Shadowstrap Logo](logo.png)
-
+<p align="center">
+    <img src="https://github.com/SuperSpacer54376/Shadowstrap/blob/2783066b1b598fe87fb32b67f405713e399a7e15/Images/Shadowstrap-dark.png#gh-dark-mode-only" width="700">
+    <img src="https://github.com/SuperSpacer54376/Shadowstrap/blob/2783066b1b598fe87fb32b67f405713e399a7e15/Images/Shadowstrap-light.png#gh-light-mode-only" width="700">
+</p>
 Shadowstrap is a fork of Froststrap/Fishtrap/Bloxstrap designed as a powerful alternative bootstrapper for Roblox. It provides an enhanced Roblox launch experience with extra features, customization, and performance improvements.
 
 ## Features
